@@ -17,9 +17,10 @@
 			</map>
 		</property>
 	</bean>
-	
+
 	<bean name="mainPage" class="java.lang.String">
-	    <constructor-arg type="java.lang.String" value="welcome" />
+	    <!-- <constructor-arg type="java.lang.String" value="welcome" /> -->
+	    <constructor-arg type="java.lang.String" value="" />
 	</bean>
 	
 </beans>
