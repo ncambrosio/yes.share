@@ -1,0 +1,7 @@
+Ver el estado de la aplicación spring boot
+
+curl localhost:8080/health
+
+"Cerrar" aplicación spring boot
+
+curl localhost:8080/shutdown
